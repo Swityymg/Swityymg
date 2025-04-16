@@ -5,20 +5,22 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/swietenia-medina"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="www.linkedin.com/in/swietenia-medina">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
 </div>
 
 ###
 
-<h1 align="center">hey :)</h1>
+<h1 align="center">Swietenia Medina</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩🏻‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Swietenia from Mexico <br>- 🔭 I’m working on a smart service app<br>- 📚 I'm currently learning Big Data and Cibersecurity<br>- ⚡ In my free time I read, watch movies and build personal projects using HTML, CSS and JavaScript</p>
+<p align="left">I'm Swietenia from Mexico <br>- 🔅 I’m working on a smart service app<br>- 🔅 I'm currently learning Big Data and Cibersecurity<br>- 🔅 In my free time I read, watch movies and build personal projects using HTML, CSS and JavaScript</p>
 
 ###
 
@@ -49,7 +51,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🌙   My Stats :</h3>
 
 ###
 
