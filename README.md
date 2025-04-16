@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Swietenia from Mexico <br>- 🔅 I’m working on a smart service app<br>- 🔅 I'm currently learning Big Data and Cibersecurity<br>- 🔅 In my free time I read, watch movies and build personal projects using HTML, CSS and JavaScript</p>
+<p align="left">I'm Swietenia <br>- 🔅 I’m working on a smart service app<br>- 🔅 I'm currently learning Big Data and Cibersecurity<br>- 🔅 In my free time I read, watch movies and build personal projects using HTML, CSS and JavaScript</p>
 
 ###
 
