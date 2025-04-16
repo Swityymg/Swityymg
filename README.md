@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="vite logo" />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwikiwandv2-19431.kxcdn.com%2F_next%2Fimage%3Furl%3Dhttps%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff1%2FVitejs-logo.svg%2F640px-Vitejs-logo.svg.png%26w%3D640%26q%3D50&f=1&nofb=1&ipt=c5e3aeb3593191655569092fdb2615ce088ce9f050eb814656087f079e5d5751" height="40" alt="vite logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
   <img width="12" />
