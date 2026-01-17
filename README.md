@@ -1,21 +1,26 @@
 <div align="center">
-  # 👋 Hi, I'm Swietenia Medina
-  **Data Science | Big Data | Finances**
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 15px;" />
-  
-  <a href="https://www.linkedin.com/in/swietenia-medina">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:swietenia.medina@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+<img src="https://github.com/swityymg.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d2ff; box-shadow: 0 0 20px rgba(0, 210, 255, 0.4);" />
+
+# 👋 Hi, I'm Swietenia Medina
+**Data Science | Big Data | Finances**
+
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="180" style="object-fit: cover; border-radius: 15px; margin: 15px 0;" />
+
+<a href="https://www.linkedin.com/in/swietenia-medina">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:swietenia.medina@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 ---
 
 ### 👩‍💻 About Me
 
-I am an **Information Technologies and Digital Business Engineering student** passionate about bridging the gap between technical development and financial viability. Currently working as a **Software Engineer** and specializing in Data Science.
+I am an **Information Technologies and Digital Business Engineering student** passionate about bridging the gap between technical development and financial viability. Currently working as a **Software Engineer** at Hotel Los Cocos.
 
 - 🏆 **Global Award Winner:** 2nd Place Worldwide in Altair Global Student Contest (Machine Learning).
 - 🥇 **Hackathon Winner:** 1st Place in Oracle Academy Hackathon (EdTech Solution).
@@ -35,24 +40,11 @@ I am an **Information Technologies and Digital Business Engineering student** pa
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=swityymg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" alt="stats graph" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=swityymg&theme=tokyonight&hide_border=true" width="400" alt="streak graph" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+### 📈 Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swityymg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" alt="top langs" />
 </div>
+
 ---
 
 <div align="center">
