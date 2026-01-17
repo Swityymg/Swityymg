@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Swietenia%20Medina&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-
+  # 👋 Hi, I'm Swietenia Medina
+  **Data Science | Big Data | Finances**
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 15px;" />
+  
   <a href="https://www.linkedin.com/in/swietenia-medina">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
