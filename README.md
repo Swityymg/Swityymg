@@ -36,14 +36,21 @@ I am an **Information Technologies and Digital Business Engineering student** pa
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swityymg&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=swityymg&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=swityymg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=swityymg&theme=tokyonight&hide_border=true" width="400" alt="streak graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swityymg&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swityymg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" alt="top langs" />
 </div>
-
 ---
 
 <div align="center">
