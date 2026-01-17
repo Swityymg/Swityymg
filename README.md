@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/swityymg.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d2ff; box-shadow: 0 0 20px rgba(0, 210, 255, 0.4);" />
+<img src="https://media.tenor.com/vBGIfQpLk50AAAAi/sanrio-sanrio-characters.gif" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d2ff; box-shadow: 0 0 20px rgba(0, 210, 255, 0.4);" />
 
 # 👋 Hi, I'm Swietenia Medina
 **Data Science | Big Data | Finances**
 
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="180" style="object-fit: cover; border-radius: 15px; margin: 15px 0;" />
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="130" style="object-fit: cover; border-radius: 15px; margin: 15px 0;" />
 
 <a href="https://www.linkedin.com/in/swietenia-medina">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -37,13 +37,6 @@ I am an **Information Technologies and Digital Business Engineering student** pa
 | **Frontend** | ![](https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,figma) |
 | **Backend & DB** | ![](https://skillicons.dev/icons?i=nodejs,express,mysql,firebase) |
 | **Other Tools** | ![](https://skillicons.dev/icons?i=arduino,git,github,vscode,powerbi) |
-
----
-
-### 📈 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swityymg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" alt="top langs" />
-</div>
 
 ---
 
