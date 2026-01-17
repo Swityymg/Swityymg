@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Swietenia Medina
 **Data Science | Big Data | Finances**
 
-<img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" height="130" style="object-fit: cover; border-radius: 15px; margin: 15px 0;" />
+<img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" height="170" style="object-fit: cover; border-radius: 15px; margin: 15px 0;" />
 
 <a href="https://www.linkedin.com/in/swietenia-medina">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
