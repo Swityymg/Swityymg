@@ -22,10 +22,12 @@
 
 I am an **Information Technologies and Digital Business Engineering student** passionate about bridging the gap between technical development and financial viability. Currently working as a **Software Engineer** at Hotel Los Cocos.
 
+- 💵 **Graduate Diploma:** Financial Intelligence and Investment Strategies.
+- 📊 **Specialization:** Predictive analytics, Linear Programming, and Fullstack Web Development.
 - 🏆 **Global Award Winner:** 2nd Place Worldwide in Altair Global Student Contest (Machine Learning).
 - 🥇 **Hackathon Winner:** 1st Place in Oracle Academy Hackathon (EdTech Solution).
 - 🚀 **Current Projects:** Developing **Serviralia** (Smart Service Platform) and AI-driven storytelling applications.
-- 📊 **Specialization:** Predictive analytics, Linear Programming, and Fullstack Web Development.
+
 
 ---
 
