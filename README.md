@@ -2,10 +2,8 @@
 
 <img src="https://media.tenor.com/vBGIfQpLk50AAAAi/sanrio-sanrio-characters.gif" width="120" height="120" style="border-radius: 50%; border: 3px solid #00d2ff; box-shadow: 0 0 20px rgba(0, 210, 255, 0.4);" />
 
-# 👋 Hi, I'm Swietenia Medina
+# Swietenia Medina
 **Data Science | Big Data | Finances**
-
-<img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=2946&auto=format&fit=crop" style="width: 100%; height: 180px; object-fit: cover; border-radius: 15px; margin: 15px 0;" />
 
 <a href="https://www.linkedin.com/in/swietenia-medina">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
